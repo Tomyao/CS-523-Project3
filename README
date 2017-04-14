@@ -1,0 +1,20 @@
+Description of what each file does:
+
+one_tree_species.py
+> plots a graph between growth rate and average biomass
+
+two_tree_species.py
+> plots a graph between growth rate and average biomass
+
+trees_and_firefighters.py
+> plots a graph between number of firefighters and average biomass
+
+one_tree_species_animation.py
+> shows an animation for the forest fire model with one tree species
+
+two_tree_species_animation.py
+> shows an animation for the forest fire model with two tree species
+
+trees_and_firefighters_animation.py
+> shows an animation for the forest fire model with one tree species and firefighters
+
